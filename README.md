@@ -17,8 +17,5 @@
 
 - 🚦 [**Claude Traffic Light**](https://github.com/SiddharthSimharaju/claude-traffic-light): a macOS menu bar dot that shows what Claude Code is doing right now
 - ⏳ [**Claude Time Machine**](https://github.com/SiddharthSimharaju/claudetimemachine): travel back through your Claude sessions
-- 🔐 [**Visualizing Identity Flow**](https://siddharthsimharaju.github.io/kong-identity-flow/): an interactive look at how identity moves through a request
-- 🦍 [**Kong Identity Flow**](https://github.com/SiddharthSimharaju/kong-identity-flow): the source behind it, built around Kong
-- ☕ [**Best Coffee Shops**](https://github.com/SiddharthSimharaju/bestcoffeeshops): the coffee shops worth the trip
-
----
+- 🔐 [**Visualizing Identity Flow**](https://siddharthsimharaju.github.io/kong-identity-flow/): an interactive look at how identity moves through a request for Kong
+- ☕ [**Best Coffee Shops**](https://github.com/SiddharthSimharaju/bestcoffeeshops): the coffee shops worth the trip in Bangalore
