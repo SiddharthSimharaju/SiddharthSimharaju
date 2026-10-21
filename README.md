@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello! I'm Siddharth.</h1>
 
-<p align="center">
+<p align="left">
   <a href="https://twitter.com/sidsimharaju">Twitter</a> •
   <a href="https://www.linkedin.com/in/siddharthsimharaju/">LinkedIn</a> •
   <a href="https://www.siddharthsimharaju.com">Website</a>
@@ -8,9 +8,8 @@
 
 - 🎨 Designer at [Kong](https://konghq.com)
 - 🔭 Previously designed at **Postman** and **HackerRank**
-- 💬 Ask me about **design, AI tools and Claude Code**
-- 📫 How to reach me: [@sidsimharaju](https://twitter.com/sidsimharaju) on Twitter
-- 🎲 Fun fact: I love picking up new hobbies. Right now it's **pottery 🏺, photography 📸 and tennis 🎾**
+- 💬 Ask me anyting about about **design**
+- 🎲 Fun fact: I love picking up new hobbies. Currently into **pottery 🏺, photography 📸 and tennis 🎾**
 
 ---
 
