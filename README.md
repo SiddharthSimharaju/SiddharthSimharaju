@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello! I'm Siddharth.</h1>
+<h1 align="left">👋 Hello! I'm Siddharth.</h1>
 
 <p align="left">
   <a href="https://twitter.com/sidsimharaju">Twitter</a> •
